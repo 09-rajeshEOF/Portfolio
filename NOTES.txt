@@ -1,1 +1,4 @@
 clsx --> for merging tailwind and acertnity ui 
+To use gradient you must use gradient 
+adding transtions at motion in utils 
+use of bento-grid at about section 
